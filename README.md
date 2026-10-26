@@ -8,7 +8,10 @@ I am a passionate Full-Stack Web Developer specializing in building scalable, op
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,html,nodejs,express,mongodb,firebase,git,github,vscode,postman,vercel&perline=8" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,html,nodejs,express" alt="My Tech Stack" />
+ <img src="https://skillicons.dev/icons?i=nodejs,express,jwt" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,postman," alt="My Tech Stack" />
 </p>
 
 ---
