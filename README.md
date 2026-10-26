@@ -8,36 +8,28 @@ I am a passionate Full-Stack Web Developer specializing in building scalable, op
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap,materialui,vite,redux,nodejs,express,mongodb,firebase,git,github,vscode,postman,vercel,netlify,figma&perline=10" alt="Abdul Karim's Tech Stack" />
-  <img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" alt="JWT" style="vertical-align: top; margin-left: 4px;" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="40" height="40" alt="Tailwind" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/white" width="40" height="40" alt="Express" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/firebase/DD2C00" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="40" height="40" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel" />
 </p>
 ---
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdulkarim6&show_icons=true&theme=tokyonight" alt="Abdul Karim's GitHub stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=Abdulkarim6&show_icons=true&theme=tokyonight" alt="Abdul Karim's GitHub stats" height="150" />
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkarim6&theme=tokyonight" alt="GitHub Streak" height="150" />
-</p>
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Abdulkarim6&theme=tokyonight" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkarim6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Abdul Karim's GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" alt="Most Used Languages" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=Abdulkarim6&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkarim6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Abdul Karim's GitHub Stats" height="150" />
 </p>
 ---
 
