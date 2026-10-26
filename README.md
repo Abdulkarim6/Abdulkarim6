@@ -10,6 +10,7 @@ I am a passionate Full-Stack Web Developer specializing in building scalable, op
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap,materialui,vite,redux,nodejs,express,mongodb,firebase,git,github,vscode,postman,vercel,netlify,figma&perline=10" alt="Abdul Karim's Tech Stack" />
 </p>
+
 ---
 
 ### 📈 GitHub Stats
@@ -19,8 +20,8 @@ I am a passionate Full-Stack Web Developer specializing in building scalable, op
   <img src="https://streak-stats.demolab.com/?user=Abdulkarim6&theme=tokyonight" height="140" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" height="140" alt="Most Used Languages" />
 </p>
+
 ---
 
 🌐 **Portfolio:** [abdul-karim-portfolio.netlify.app](https://abdul-karim-portfolio.netlify.app/) <br />
 📧 **Email:** abdulkarimdeveloper23@gmail.com
-
