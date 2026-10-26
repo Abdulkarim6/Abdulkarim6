@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Abdul Karim 👋
+### Next.js & MERN Stack Developer | TypeScript Specialist
 
-<!--
-**Abdulkarim6/Abdulkarim6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Full-Stack Web Developer specializing in building scalable, optimized e-commerce platforms and web applications using **Next.js, React, TypeScript, Node.js, and MongoDB**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Frontend:** Next.js, React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, shadcn/ui, daisyUI
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Database & Cloud:** MongoDB, Firebase, Cloudinary, Vercel
+- **Workflow & AI Tools:** Git, GitHub, Postman, Cursor, VS Code
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkarim6&show_icons=true&theme=tokyonight" alt="Abdul Karim's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+---
+
+🌐 **Portfolio:** [abdul-karim-portfolio.netlify.app](https://abdul-karim-portfolio.netlify.app/) | 📧 **Email:** abdulkarimdeveloper23@gmail.com
