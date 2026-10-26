@@ -14,11 +14,11 @@ I am a passionate Full-Stack Web Developer specializing in building scalable, op
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=Abdulkarim6&show_icons=true&theme=tokyonight" alt="Abdul Karim's GitHub stats" height="150" />
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Abdulkarim6&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkarim6&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 ---
 
 🌐 **Portfolio:** [abdul-karim-portfolio.netlify.app](https://abdul-karim-portfolio.netlify.app/) | 📧 **Email:** abdulkarimdeveloper23@gmail.com
