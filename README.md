@@ -8,8 +8,11 @@ I am a passionate Full-Stack Web Developer specializing in building scalable, op
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap,materialui,vite,redux,nodejs,express,mongodb,firebase,jwt,git,github,vscode,postman,vercel,netlify,figma&perline=10" alt="Abdul Karim's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap,materialui,vite,redux,nodejs,express,mongodb,firebase,git,github,vscode,postman,vercel,netlify,figma&perline=10" alt="Abdul Karim's Tech Stack" />
+  <br />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
+
 ---
 
 ### 📈 GitHub Stats
