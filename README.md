@@ -10,7 +10,7 @@ I am a passionate Full-Stack Web Developer specializing in building scalable, op
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap,materialui,vite,redux,nodejs,express,mongodb,firebase,git,github,vscode,postman,vercel,netlify,figma&perline=10" alt="Abdul Karim's Tech Stack" />
 </p>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37094169-7f02-4b58-a5bb-5048c3987147" />
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/37094169-7f02-4b58-a5bb-5048c3987147" />
 
 ---
 
